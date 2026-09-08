@@ -81,9 +81,4 @@ Feedback and suggestions are always welcome.
 
 ---
 
-## Author
 
-Aman Verma
-
-* GitHub: https://github.com/aisultan1
-* LinkedIn: https://www.linkedin.com/in/aisultah-473645328/
