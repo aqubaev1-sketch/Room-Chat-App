@@ -85,5 +85,5 @@ Feedback and suggestions are always welcome.
 
 Aman Verma
 
-* GitHub: https://github.com/amannv
-* LinkedIn: https://www.linkedin.com/in/aman-verma-473645328/
+* GitHub: https://github.com/aisultan1
+* LinkedIn: https://www.linkedin.com/in/aisultah-473645328/
